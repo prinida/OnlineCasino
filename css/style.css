@@ -952,6 +952,7 @@ a:visited {
   background: linear-gradient(90deg, #ffb400 0%, #ff8700 100%);
   position: relative;
   padding: 80px 0 0 0;
+  overflow: hidden;
 }
 
 .about:before {
@@ -1392,6 +1393,7 @@ a:visited {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  overflow: hidden;
 }
 
 .review-info:before {
